@@ -1,0 +1,10 @@
+C:\Users\Metin\source\repos\Metin Form\Gelişmiş Hesap Makinesi\Gelişmiş Hesap Makinesi\bin\Debug\Gelişmiş Hesap Makinesi.exe.config
+C:\Users\Metin\source\repos\Metin Form\Gelişmiş Hesap Makinesi\Gelişmiş Hesap Makinesi\bin\Debug\Gelişmiş Hesap Makinesi.exe
+C:\Users\Metin\source\repos\Metin Form\Gelişmiş Hesap Makinesi\Gelişmiş Hesap Makinesi\bin\Debug\Gelişmiş Hesap Makinesi.pdb
+C:\Users\Metin\source\repos\Metin Form\Gelişmiş Hesap Makinesi\Gelişmiş Hesap Makinesi\obj\Debug\Gelişmiş Hesap Makinesi.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Gelişmiş Hesap Makinesi\Gelişmiş Hesap Makinesi\obj\Debug\Gelişmiş_Hesap_Makinesi.Form1.resources
+C:\Users\Metin\source\repos\Metin Form\Gelişmiş Hesap Makinesi\Gelişmiş Hesap Makinesi\obj\Debug\Gelişmiş_Hesap_Makinesi.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Gelişmiş Hesap Makinesi\Gelişmiş Hesap Makinesi\obj\Debug\Gelişmiş Hesap Makinesi.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Gelişmiş Hesap Makinesi\Gelişmiş Hesap Makinesi\obj\Debug\Gelişmiş Hesap Makinesi.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Gelişmiş Hesap Makinesi\Gelişmiş Hesap Makinesi\obj\Debug\Gelişmiş Hesap Makinesi.exe
+C:\Users\Metin\source\repos\Metin Form\Gelişmiş Hesap Makinesi\Gelişmiş Hesap Makinesi\obj\Debug\Gelişmiş Hesap Makinesi.pdb
